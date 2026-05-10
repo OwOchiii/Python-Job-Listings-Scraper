@@ -90,3 +90,4 @@ By inspecting the jobs within each cluster, we can infer what defines them:
 ### Conclusion
 The model successfully identified distinct groupings within the job data, primarily driven by job function and, to a lesser extent, location. This demonstrates that even with a simple dataset, unsupervised learning can uncover meaningful patterns that would be difficult to spot manually.
 
+Project webpage: https://roadmap.sh/projects/job-listings-scraper
